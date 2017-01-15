@@ -2,7 +2,7 @@ package jwt
 
 import (
 	"errors"
-	"github.com/gin-gonic/gin"
+	"gopkg.in/gin-gonic/gin.v1"
 	"gopkg.in/dgrijalva/jwt-go.v3"
 	"net/http"
 	"strings"

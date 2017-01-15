@@ -2,7 +2,7 @@ package jwt
 
 import (
 	"github.com/buger/jsonparser"
-	"github.com/gin-gonic/gin"
+	"gopkg.in/gin-gonic/gin.v1"
 	"github.com/stretchr/testify/assert"
 	"gopkg.in/appleboy/gofight.v1"
 	"gopkg.in/dgrijalva/jwt-go.v3"
